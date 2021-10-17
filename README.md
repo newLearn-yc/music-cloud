@@ -40,3 +40,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 6.播放功能
 
 7.mv播放功能（可能有点慢）
+
+项目启动出问题可以加我qq问，qq：2072225986
